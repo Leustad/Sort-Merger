@@ -1,0 +1,6 @@
+zulu	alpha
+golf	bravo
+lima	charlie
+mike	echo
+oscar	foxtrot
+hotel	whiskey
