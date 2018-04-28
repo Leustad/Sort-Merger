@@ -3,7 +3,7 @@ import heapq
 import contextlib
 import itertools
 
-infiles = ['1.txt', '2.txt'] # Path to the files to me sort merged.
+infiles = ['1.txt', '2.txt'] # Path to the files
 line_endings = ['\n', '\n\r', '\r']
 
 # Each file must have an empty line et the end.
