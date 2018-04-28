@@ -4,7 +4,7 @@ Sort merge delimited files without loading to the memory via desired key
 
 ### Example
 
-Files are sorted buy their second column already
+Files are tab delimited and sorted by their second column already
 
 #### file #1
 
